@@ -1,9 +1,9 @@
 /**
- * Theme Name: ivaylo.me Template
+ * Theme Name: Construction - Construction Company Template
  * Version: 1.0
  * Description: HTML5 Template for Construction Company and Building Services
  * Author: themesparagon
- * Author URI: https://ivaylo.me
+ * Author URI: https://themeforest.net/user/themesparagon
  */
 
 /*
@@ -229,7 +229,7 @@ input[type="submit"]:focus { outline: 0; background-color: #383838; }
 /* Placeholder color */
 ::-webkit-input-placeholder { color: #c5c5c5; }
 :-moz-placeholder { color: #c5c5c5; }
-::-moz-placeholder { color: #c5c5c5; opacity: 1; }/* Since FF19 lowers the opacity of the placeholder by default */ }
+::-moz-placeholder { color: #c5c5c5; opacity: 1; }/* Since FF19 lowers the opacity of the placeholder by default */ 
 :-ms-input-placeholder { color: #c5c5c5; }
 
 /* Links */
@@ -702,7 +702,7 @@ body.header-style-1 #site-header.is-fixed:after { opacity: 0.7; border: none; }
 .hentry .post-media { margin-bottom: 30px; }
 
 /* Post Content */
-.hentry .post-content {  }
+/* .hentry .post-content {  } */
 .hentry  .post-read-more { margin-top: 45px; }
 .hentry  .post-read-more a { position: relative; display: inline-block; padding-right: 10px; }
 .hentry  .post-read-more a:after { content: "\f178"; font-family: "FontAwesome"; position: absolute; top: 0; left: 50%; opacity: 0; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; }
