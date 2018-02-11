@@ -984,3 +984,7 @@ body.header-style-1 #site-header.is-fixed:after { opacity: 0.7; border: none; }
 	#bottom .bottom-bar-socials { width: 100%; display: block; text-align: center; }
 	#bottom .bottom-bar-content { margin-bottom: 10px; }
 }
+/* ivaylo css */
+.row-practice-1 {
+	margin-bottom: 50px;
+}
